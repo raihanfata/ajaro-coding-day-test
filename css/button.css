@@ -1,0 +1,22 @@
+.button{
+    color: white;
+    background-color: green;
+    padding: 10px 50px 10px 50px;
+    border-radius: 10px;
+    border-radius: 5px;
+    position: relative;
+    left: 1050px;
+    top:95px;
+    text-decoration: none;
+}
+
+.button1{
+    color: white;
+    background-color: green;
+    border-radius: 8px;
+    height: 35px;
+    width: 120px;
+    padding:10px;
+    cursor: pointer;
+    text-decoration: none;
+}
