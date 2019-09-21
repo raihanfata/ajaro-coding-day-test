@@ -1,0 +1,58 @@
+.body{
+    position: relative;
+    left:430px;
+    top:60px;
+}
+
+.form input[type=text] {
+    width: 250px;
+    height: 1px;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid grey;
+    border-radius: 6px;
+}
+.form1 input[type=text] {
+    width: 400px;
+    height: 1px;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid grey;
+    border-radius: 6px;
+}
+.form2 textarea {
+    width: 400px;
+    height: 100px;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid grey;
+    border-radius: 6px;
+}
+.form3 input[type=text] {
+    width: 125px;
+    height: 1px;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid grey;
+    border-radius: 6px;
+}
+.form4 input[type=text] {
+    width: 150;
+    height: 1px;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid grey;
+    border-radius: 6px;
+}
+.form5 input[type=text] {
+    width: 100px;
+    height: 1px;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid grey;
+    border-radius: 6px; 
+}
